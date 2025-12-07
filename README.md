@@ -1,7 +1,4 @@
-Below is a clean and professional **README.md** file based on the project description you provided.
-You can copy-paste it directly into your GitHub repo.
 
----
 
 ## 📌 Online Recipe Sharing Platform
 
@@ -133,13 +130,4 @@ With secure user authentication, admin moderation, and a scalable Java web stack
 
 ---
 
-If you want, I can generate:
 
-* **Full project report (20–30 pages)**
-* **PPT presentation (professional)**
-* **ER diagram**
-* **UML diagrams**
-* **SRS document**
-
-Just tell me:
-👉 *“bhai report bana do”* or *"ppt de do"*
