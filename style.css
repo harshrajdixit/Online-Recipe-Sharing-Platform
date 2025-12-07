@@ -1,0 +1,10 @@
+body{font-family:Arial, sans-serif;margin:20px;}
+header h1{display:inline-block;}
+nav a{margin-right:12px;text-decoration:none;padding:6px 10px;background:#222;color:#fff;border-radius:6px;}
+h1,h2{color:#333;}
+.card{border:1px solid #ddd;padding:12px;border-radius:8px;margin-bottom:10px;}
+.auth{display:flex;gap:20px;}
+input,textarea{width:300px;padding:8px;margin:6px 0; display:block;}
+button{padding:8px 12px;border-radius:6px;}
+#recipes .card{width:600px;}
+.small{font-size:0.9em;color:#555;}
